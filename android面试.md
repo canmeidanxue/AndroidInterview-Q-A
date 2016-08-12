@@ -9,9 +9,11 @@ http://www.bingjie.me/2016/05/08/%E6%89%AB%E6%B8%85Android%E9%9D%A2%E8%AF%95%E9%
 **7.面试常见问题：**</br>https://github.com/canmeidanxue/InterviewQuestion</br>
 **8.面试产品描述：**</br>http://www.jianshu.com/p/233ef7b624fc</br>
 **9. 国内一线互联网公司内部面试题库：**</br>http://blog.csdn.net/rain_butterfly/article/details/51946197</br>
-**10. 常用必备小工具汇总：**</br>http://blog.csdn.net/youce/article/details/49801683</br>
-**11. 面试问题汇总：**</br>http://www.devstore.cn/essay/essayInfo/7195.html</br>
-**12. 动画状态：**</br>http://blog.csdn.net/qq_26971803/article/details/52160591</br>
+**10.常用必备小工具汇总：**</br>http://blog.csdn.net/youce/article/details/49801683</br>
+**11.面试问题汇总：**</br>http://www.devstore.cn/essay/essayInfo/7195.html</br>
+**12.动画状态：**</br>http://blog.csdn.net/qq_26971803/article/details/52160591</br>
+**13.检测内存泄漏 ：**</br>https://github.com/taoweiji/DemoAndroidMemoryLeak</br>
+**14.广告对话框 ：**</br>https://github.com/yipianfengye/android-adDialog</br>
 #招聘网站汇总
 **1.内推：**</br>http://www.neitui.me/</br>
 **2.拉钩：**</br>http://www.lagou.com/</br>
